@@ -1,4 +1,4 @@
-baseURL = "http://castonlboyd.com"
+baseURL = "castonlboyd.com"
 title = "castonboyd"
 theme = "hugo-coder"
 languageCode = "en"
@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "caston boyd"
-description = "John Doe's personal website"
+description = "Caston Boyd's personal website"
 keywords = "software engineer,creator"
 info = ["software engineer.", "creator."]
 avatarURL = "images/avatar.png"
